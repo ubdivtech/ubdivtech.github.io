@@ -16,7 +16,7 @@
 
     <!-- Theme CSS -->
     <link href="css/clean-blog.min.css" rel="stylesheet">
-
+    <link href="css/scientista.css" rel="stylesheet">
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -51,15 +51,15 @@
                     <li>
                         <a href="#About">About</a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a href="blog.html">Blog</a>
-                    </li>
+                    </li> -->
                     <li>
                       <a href="#events">Events</a>
                     </li>
-                    <li>
+                    <!-- <li>
                       <a href="#resources">Resources</a>
-                    </li>
+                    </li> -->
                     <li>
                       <a href="#involve">Get Involved</a>
                     </li>
@@ -117,40 +117,60 @@
 
     <!-- Footer -->
     <footer>
-        <div id="Contact" class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <ul class="list-inline text-center">
-                        <li>
-                            <a href="mailto:ubscientista@gmail.com">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-envelope-o fa-stack-1x fa-inverse" aria-hidden="true"></i>
-                                    <!-- <i class="fa fa-twitter fa-stack-1x fa-inverse"></i> -->
-                                </span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.facebook.com/ubscientista/">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                        <!-- <li>
-                            <a href="#">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li> -->
-                    </ul>
-                    <p class="copyright text-muted">Copyright &copy; UB Scientista 2017</p>
-                </div>
+      <div id="Contact" class="container">
+        <form method="post" action="mailto:ubscientista@gmail.com?subject=Contact From Website" role="form" id="contactF" enctype="text/plain">
+          <legend>
+            Contact Us for More Information
+          </legend>
+          <fieldset>
+            <div class="form-group">
+              <label for="cnt_name">Name:</label>
+              <abbr title="Required">*</abbr>
+              <input type="text" class="form-control inp" id="cnt_name" name="name"required />
             </div>
-        </div>
+            <div class="form-group">
+              <label for="cnt_email">Email:</label>
+              <abbr title="Required">*</abbr>
+              <input type="email" class="form-control inp" id="cnt_email" name="email" required />
+            </div>
+            <div class="form-group">
+              <label for="cnt_phone">Phone:</label>
+              <input type="tel" class="form-control inp" id="cnt_phone" name="phone" />
+            </div>
+            <div class="form-group">
+              <label for="cnt_message">Message: </label>
+              <abbr title="Required">*</abbr>
+              <textarea class="form-control inp" id="cnt_message" rows="3" name="message" required></textarea>
+            </div>
+            <div class="text-center">
+              <button type="submit" class="btn btn-primary" form="contactF">Submit</button>
+            </div>
+          </fieldset>
+        </form>
+            <div class="row">
+              <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                  <ul class="list-inline text-center">
+                      <li>
+                          <a href="mailto:ubscientista@gmail.com">
+                              <span class="fa-stack fa-lg">
+                                  <i class="fa fa-circle fa-stack-2x"></i>
+                                  <i class="fa fa-envelope-o fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                              </span>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="https://www.facebook.com/ubscientista/">
+                              <span class="fa-stack fa-lg">
+                                  <i class="fa fa-circle fa-stack-2x"></i>
+                                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                              </span>
+                          </a>
+                      </li>
+                  </ul>
+                  <p class="copyright text-muted">Copyright &copy; UB Scientista 2017</p>
+              </div>
+          </div>
+      </div>
     </footer>
 
     <!-- jQuery -->
@@ -160,8 +180,8 @@
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Contact Form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
+    <!-- <script src="js/jqBootstrapValidation.js"></script> -->
+    <!-- <script src="js/contact_me.js"></script> -->
 
     <!-- Theme JavaScript -->
     <script src="js/clean-blog.min.js"></script>
