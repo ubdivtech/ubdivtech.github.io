@@ -116,6 +116,9 @@ ul.gallery li:hover h5 {
   border: none !important;
 }
 
+.thumbnail img {
+  height: 150px;
+}
 .footer {
   margin-top: 20px;
   margin-bottom: 0px;
