@@ -37,6 +37,8 @@ li {
   position: relative;
   background: url('img/hero-image.jpg') no-repeat top center;
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .content {
