@@ -71,11 +71,7 @@ a, a:hover {
 .navbar-header .navbar-toggle .icon-bar {
   background-color: #5B2062;
 }
-#team{
-    padding-top: 50px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
+
 .team-column {
   float: left;
   width: 33.3%;
@@ -91,7 +87,14 @@ a, a:hover {
 .team-card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-
+.team-container {
+    padding: 0 16px;
+}
+.team-container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 
 #about {
   margin-top: 50px;
