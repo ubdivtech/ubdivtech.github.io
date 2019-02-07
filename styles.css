@@ -93,9 +93,6 @@ a, a:hover {
 .team-container {
     padding: 0 16px;
 }
-.crop {
-  height: 290;
-}
 .team-container::after, .row::after {
     content: "";
     clear: both;
