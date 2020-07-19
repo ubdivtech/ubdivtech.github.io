@@ -81,7 +81,7 @@ a, a:hover {
   margin-bottom: 16px;
   padding: 0 8px;
 }
-@media (max-width: 650px) {
+@media (max-width: 600px) {
     .team-column {
         width: 100%;
         display: block;
