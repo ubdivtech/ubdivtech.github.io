@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44fbb696-514f-49fc-9935-cb027ccbfbb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tanvieki" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1esiPQS78GExIodRIB4nL3nhg7P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44fbb696-514f-49fc-9935-cb027ccbfbb9" name="Default Changelist" comment="" />
+      <created>1595116676802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595116676802</updated>
+      <workItem from="1595116678143" duration="937000" />
+      <workItem from="1595121555818" duration="784000" />
+      <workItem from="1595122349048" duration="595000" />
+    </task>
+    <task id="LOCAL-00001" summary="rebranding edits">
+      <created>1595117166756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595117166756</updated>
+    </task>
+    <task id="LOCAL-00002" summary="rebranding edits">
+      <created>1595117490120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595117490120</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rebranding edits">
+      <created>1595121748178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595121748178</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rebranding edits">
+      <created>1595122099143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595122099143</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rebranding edits">
+      <created>1595122780442</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595122780442</updated>
+    </task>
+    <task id="LOCAL-00006" summary="rebranding edits">
+      <created>1595122898378</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595122898378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rebranding edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="rebranding edits" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1595122897483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595122897483" />
+    <state x="623" y="310" key="Github.ShareDialog" timestamp="1595122090814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="623" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1595122090814" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595122900497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595122900497" />
+  </component>
+</project>
