@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44fbb696-514f-49fc-9935-cb027ccbfbb9" name="Default Changelist" comment="added new 2020 flyers!">
+    <list default="true" id="44fbb696-514f-49fc-9935-cb027ccbfbb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events.html" beforeDir="false" afterPath="$PROJECT_DIR$/Events.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <workItem from="1595207685635" duration="7047000" />
       <workItem from="1595216292072" duration="448000" />
       <workItem from="1595982516159" duration="1635000" />
-      <workItem from="1600693853591" duration="1331000" />
+      <workItem from="1600693853591" duration="1945000" />
     </task>
     <task id="LOCAL-00001" summary="rebranding edits">
       <created>1595117166756</created>
@@ -266,7 +267,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600695190995</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="added new slide section-- keeping all relevant Scientista flyers too">
+      <created>1600695329357</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1600695329357</updated>
+    </task>
+    <task id="LOCAL-00032" summary="added new 2020 flyers!">
+      <created>1600695409240</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1600695409240</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,22 +292,27 @@
     <MESSAGE value="rebranding edits- final touches!" />
     <MESSAGE value="rebranding edits-- Events logo and Team member edits" />
     <MESSAGE value="rebranding edits--" />
-    <MESSAGE value="added new 2020 flyers!" />
     <MESSAGE value="changes: added new 2020 flyers!" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes: added new 2020 flyers!" />
+    <MESSAGE value="added new slide section-- keeping all relevant Scientista flyers too" />
+    <MESSAGE value="added new 2020 flyers!" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new 2020 flyers!" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1600694458422">
+    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1600695408112">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600694458422" />
+    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600695408112" />
     <state x="623" y="310" key="Github.ShareDialog" timestamp="1595122090814">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="623" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1595122090814" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600694418179">
+    <state x="746" y="115" key="RollbackChangesDialog" timestamp="1600695694736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600694418179" />
+    <state x="746" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600695694736" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600695333288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600695333288" />
   </component>
 </project>
